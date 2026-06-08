@@ -1,0 +1,10 @@
+treamlit
+yfinance
+pandas
+plotly
+requests
+numpy
+pytz
+streamlit
+pandas
+pytz
