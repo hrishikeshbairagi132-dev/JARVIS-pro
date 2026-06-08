@@ -6,4 +6,4 @@ JARVIS Trading Dashboard 👑
 📰 News Sentiment: GNews API का उपयोग करके बाजार का मूड समझना।
 🔔 Telegram Alerts: ट्रेड सिग्नल सीधे आपके टेलीग्राम पर।
 📉 Charts: Plotly का उपयोग करके रीयल-टाइम इंटरैक्टिव चार्ट्स।
-कैसे सेटअप करें (Deployment):# JARVIS-pro
+कैसे सेटअप करें (Deployment):# JARVIS-pro 
