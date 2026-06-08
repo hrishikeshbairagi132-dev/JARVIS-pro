@@ -1,0 +1,21 @@
+# 1. Python के लिए (अनिवार्य)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 2. वर्चुअल एनवायरमेंट और डेटाबेस
+venv/
+env/
+.env
+alerts.db
+*.sqlite3
+
+# 3. सीक्रेट्स और निजी फाइलें
+.streamlit/secrets.toml
+.DS_Store
+
+# 4. लॉग्स और डेटा फाइल्स
+*.log
+trade_log.csv
+trade_log_paper.csv
+data/
