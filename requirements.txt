@@ -4,7 +4,13 @@ numpy
 yfinance
 plotly
 requests
-
+streamlit>=1.35.0
+pandas>=2.0.0
+numpy>=1.24.0
+yfinance>=0.2.40
+plotly>=5.15.0
+requests>=2.31.0
+pytz
 
 
 
