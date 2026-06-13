@@ -1,4 +1,13 @@
-pip install yfinance pandas numpy ta requests beautifulsoup4 websocket-client feedparser google-genai
+yfinance
+pandas
+numpy
+ta
+requests
+beautifulsoup4
+websocket-client
+feedparser
+google-genai
+
 
 
 
